@@ -1,4 +1,4 @@
-
+![logo](https://github.com/sreerajspillai07/sreerajspillai07/blob/main/gitbanner.gif)
 <h1 align="center">Hi 👋, I'm Sreeraj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
